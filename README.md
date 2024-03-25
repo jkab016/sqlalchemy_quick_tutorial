@@ -22,14 +22,13 @@ Before you begin, ensure you have the following:
 
 ## Repository Structure
 .<br>
-├── data/                          # Directory containing sample data files
+├── data/                         
 │   ├── geographical_data.csv     
 │   └── dummy_data.sql            
 ├── code/                          
 │   └── tutorial.ipynb            
-├── README.md<br>                      # You are here!
-└── requirements.txt               # File listing required Python libraries
-
+├── README.md                   
+└── requirements.txt              
 
 ## Usage
 
