@@ -27,7 +27,7 @@ Before you begin, ensure you have the following:
 │   └── dummy_data.sql            
 ├── code/                          
 │   └── tutorial.ipynb            
-├── README.md                      # You are here!
+├── README.md<br>                      # You are here!
 └── requirements.txt               # File listing required Python libraries
 
 
