@@ -11,11 +11,11 @@ Before you begin, ensure you have the following:
 
 
 ## Getting Started
-- Clone this repository:
+- Clone this repository:<br>
     ``git clone https://github.com/jkab016/sqlalchemy_quick_tutorial.git``
-    
-- Navigate to the cloned directory:
+
+- Navigate to the cloned directory:<br>
     ``cd your_repository``
 
-- Install the required Python packages listed in requirements.txt:
+- Install the required Python packages listed in requirements.txt:<br>
     ``pip install -r requirements.txt``
