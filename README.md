@@ -21,7 +21,7 @@ Before you begin, ensure you have the following:
     ``pip install -r requirements.txt``
 
 ## Repository Structure
-.
+.<br>
 ├── data/                          # Directory containing sample data files
 │   ├── geographical_data.csv     
 │   └── dummy_data.sql            
